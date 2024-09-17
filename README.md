@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋, I'm Rishu Anand
+
+#### I am a passionate Full Stack Developer from India.
+
+## Following are the tech, tools, and languages I use:
+
+![HTML5](https://img.shields.io/badge/html5-e54c21.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-214ce5.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-2c2c2c.svg?style=for-the-badge&logo=javascript&logoColor=f7e018) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38bdf8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-712cf9.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00d1b2?style=for-the-badge&logo=bulma&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-0769ad.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-23272f.svg?style=for-the-badge&logo=react&logoColor=58c4dc) ![MUI](https://img.shields.io/badge/MUI-0073e6.svg?style=for-the-badge&logo=mui&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-319795.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-00684a.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-a03333?style=for-the-badge&logo=mongoose&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-00758f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52b0e7?style=for-the-badge&logo=Sequelize&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-5fa04e?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-2c2c2c.svg?style=for-the-badge&logo=express&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-2f3242?style=for-the-badge&logo=Electron&logoColor=a2ecfb) ![TypeScript](https://img.shields.io/badge/typescript-3178c6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Zod](https://img.shields.io/badge/zod-3068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-1c78c0.svg?style=for-the-badge&logo=webpack&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-cf4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-dd2c00?style=for-the-badge&logo=firebase&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-ff9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d4.svg?style=for-the-badge) ![Shell Script](https://img.shields.io/badge/shell_script-2d3a3e.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-ef391a.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-010409.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github_actions-1f883d.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-cb3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Husky](https://img.shields.io/badge/Husky-8e562e.svg?style=for-the-badge) ![EditorConfig](https://img.shields.io/badge/EditorConfig-e6e6e6?style=for-the-badge&logo=editorconfig&logoColor=black) ![Prettier](https://img.shields.io/badge/Prettier-f8bc45.svg?style=for-the-badge&logo=prettier&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MatLab](https://img.shields.io/badge/MatLab-2c2c2c.svg?style=for-the-badge)
+
+## Feel free to reach out to discuss your project or hire me for any new opportunities at:
+#### 📧 [riuandg5@gmail.com](mailto:riuandg5@gmail.com)
+#### 💼 [UpWork](https://www.upwork.com/freelancers/~01c0210ec45d492de4?mp_source=share)
 
 <!--
-**riuandg5/riuandg5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## My GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=riuandg5&theme=dark&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true&langs_count=8)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=riuandg5&theme=dark&hide_border=false&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide=contribs)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=riuandg5&theme=dark&mode=weekly)
 -->
